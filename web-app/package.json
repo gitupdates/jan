@@ -55,7 +55,7 @@
     "framer-motion": "^12.23.12",
     "fuse.js": "^7.1.0",
     "fzf": "^0.5.2",
-    "i18next": "^25.0.1",
+    "i18next": "^26.3.4",
     "katex": "^0.16.22",
     "lodash.clonedeep": "^4.5.0",
     "lodash.debounce": "^4.0.8",
